@@ -23,7 +23,7 @@ Don't create a VMM yourself, it's madness.
 ## Installation
 
 ```bash
-git clone https://github.com/vm-tools/wtf.git
+git clone https://github.com/kube-vm-project/wtf.git
 cd wtf
 make
 ```
